@@ -1,0 +1,2 @@
+uonuc@Onuchukwu MINGW64 ~/OneDrive/Desktop/Classwork/Module_12/Challenge/Starter_Code
+$ mongoimport --type json -d uk_foods -c establishments --drop --jsonArray Resources/establishments.json
